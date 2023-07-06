@@ -1,0 +1,12 @@
+.header__img{
+    max-width: 115px;
+}
+
+.header{
+    object-fit: contain;
+    background-color: white;
+    padding: 20px;
+    padding-bottom: 5px;
+    border-bottom: 1px solid lightgray;
+}
+
